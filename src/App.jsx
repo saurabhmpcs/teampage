@@ -12,7 +12,7 @@ function App() {
       >
         <div className="p-2 m-2 mb-10">
           <h1 className="font-semibold  text-5xl  italic font-serif   mx-auto  bg-gradient-to-r from-violet-950 to-red-100 bg-clip-text text-transparent">
-            Team Page
+            Team
           </h1>
         </div>
 
